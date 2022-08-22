@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>shrink.png</file>
+        <file>enlarge.png</file>
+        <file>map.png</file>
+        <file>query.png</file>
+        <file>add.png</file>
+        <file>all.png</file>
+        <file>connect.png</file>
+        <file>help.png</file>
+        <file>metro-shanghai.png</file>
+        <file>mouse.png</file>
+        <file>qt.png</file>
+        <file>resource.qrc</file>
+        <file>splash.png</file>
+        <file>station.png</file>
+        <file>subway.png</file>
+        <file>text.png</file>
+    </qresource>
+</RCC>
